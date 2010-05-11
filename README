@@ -1,0 +1,5 @@
+Implementation of Power Iteration Clustering Algorithm
+
+* reference
+1. Frank Lin and William W. Cohen (2010): Power Iteration Clustering in ICML-2010.
+2. Frank Lin and William W. Cohen (2010): A Very Fast Method for Clustering Big Text Datasets (draft) in ECAI-2010. 
